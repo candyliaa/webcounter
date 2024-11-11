@@ -1,0 +1,4 @@
+1731341561141	geckodriver	INFO	Listening on 127.0.0.1:55801
+1731341561160	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "32805" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileleEOtB"
+Unable to init server: Broadway display type not supported: 172.19.144.1:0.0
+Error: cannot open display: 172.19.144.1:0.0
