@@ -21,7 +21,9 @@ jobs:
           POSTGRES_PASSWORD: postgres
         options: >-
           --health-cmd pg_isready
-          --health-interval 10s
+(webcntr-py3.10) (base) ➜  webcounter git:(master) ✗ git branch -M main
+error: refname refs/heads/master not found
+fatal: Branch rename failed          --health-interval 10s
           --health-timeout 5s
           --health-retries 5
         ports:
